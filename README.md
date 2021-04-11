@@ -14,5 +14,5 @@
 | 7 | ~~Branch Sums~~ | Easy – 7/25 | Binary Trees – 1/10 |
 | 8 | ~~Node Depths~~ | Easy – 8/25 | Binary Trees – 2/10 |
 | 9 | ~~Depth-first Search~~ | Easy – 9/25 | Graphs – 1/11 |
-| 10 | Minimum Waiting Time | Easy – 10/25 | Greedy Algorithms – 1/5 | O(n*logn) | O(1) |
-| 11 | Class Photos | Easy – 11/25 | Greedy Algorithms – 2/5 |
+| 10 | Minimum Waiting Time | Easy – 10/25 | Greedy Algorithms – 1/5 | O(n*log(n)) | O(1) |
+| 11 | Class Photos | Easy – 11/25 | Greedy Algorithms – 2/5 | O(n*log(n)) | O(1) |
