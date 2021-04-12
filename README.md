@@ -18,4 +18,6 @@
 | 11 | Class Photos | Easy – 11/25 | Greedy Algorithms – 2/5 | O(n*log(n)) | O(1) |
 | 12 | Tandem Bicycle | Easy – 12/25 | Greedy Algorithms – 3/5 | O(n*log(n)) | O(1) |
 | 13 | ~~Remove Duplicates From Linked List~~ | Easy – 13/25 | Linked List – 1/12 |
-| 14 | Nth Fibonacci | Easy – 14/25 | Recursion – 1/12 |  O(n) | O(1) |
+| 14 | Nth Fibonacci | Easy – 14/25 | Recursion – 1/12 | O(n) | O(1) |
+| 15 | Product Sum |  Easy – 15/25 | Recursion – 2/12 | O(n) | O(depth) |
+| 16 | Binary Search | Easy – 16/25 | Searching – 1/7 |
