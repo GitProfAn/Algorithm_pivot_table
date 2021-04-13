@@ -23,3 +23,5 @@
 | 15 | Product Sum |  Easy – 15/25 | Recursion – 2/12 | O(n) | O(depth) |
 | 16 | Binary Search | Easy – 16/25 | Searching – 1/7 | O(log(n)) | O(1) |
 | 17 | Find Three Largest Numbers |  Easy – 17/25 | Searching – 2/7 | O(n) | O(1) |
+| 18 | Bubble Sort | Easy – 18/25 | Sorting – 1/8 | O(n^2) | O(1) |
+| 19 | Insertion Sort | Easy – 19/25 | Sorting – 2/8 | O(n^2) | O(1) |
