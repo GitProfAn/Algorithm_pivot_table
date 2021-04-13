@@ -1,5 +1,6 @@
 # third party reference:  
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python/blob/252df0a149502143a14e7283424d40b785dd451c/DIRECTORY.md)
+- [19_udacity_dsa](https://github.com/Axel-Bravo/19_udacity_dsa.git)
 
 # Algorithms' pivot table  
 
