@@ -25,3 +25,5 @@
 | 17 | Find Three Largest Numbers |  Easy – 17/25 | Searching – 2/7 | O(n) | O(1) |
 | 18 | Bubble Sort | Easy – 18/25 | Sorting – 1/8 | O(n^2) | O(1) |
 | 19 | Insertion Sort | Easy – 19/25 | Sorting – 2/8 | O(n^2) | O(1) |
+| 20 | Selection Sort | Easy – 20/25 | Sorting – 3/8 | O(n^2) | O(1) |
+| 21 | Palindrome Check | Easy – 21/25 | Strings – 1/14 | O(n) | O(1) |
