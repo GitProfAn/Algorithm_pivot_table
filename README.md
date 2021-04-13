@@ -21,3 +21,4 @@
 | 14 | Nth Fibonacci | Easy – 14/25 | Recursion – 1/12 | O(n) | O(1) |
 | 15 | Product Sum |  Easy – 15/25 | Recursion – 2/12 | O(n) | O(depth) |
 | 16 | Binary Search | Easy – 16/25 | Searching – 1/7 | O(log(n)) | O(1) |
+| 17 | Find Three Largest Numbers |  Easy – 17/25 | Searching – 2/7 | O(n) | O(1) |
