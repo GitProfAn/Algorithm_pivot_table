@@ -27,3 +27,4 @@
 | 19 | Insertion Sort | Easy – 19/25 | Sorting – 2/8 | O(n^2) | O(1) |
 | 20 | Selection Sort | Easy – 20/25 | Sorting – 3/8 | O(n^2) | O(1) |
 | 21 | Palindrome Check | Easy – 21/25 | Strings – 1/14 | O(n) | O(1) |
+| 22 | Caesar Cipher Encryptor | Easy – 22/25 | Strings – 2/14 | O(n) | O(n) |
