@@ -31,3 +31,4 @@
 | 23 | Run-Length Encoding | Easy – 23/25 | Strings – 3/14 | O(n) | O(n) |
 | 24 | Generate Document | Easy – 24/25 | Strings – 4/14 | O(n + m) | O(c) |
 | 25 | First Non-Repeating Character | Easy – 24/25 | Strings – 5/14 | O(n) | O(1) |
+| 26 | River Sizes | Medium – 1/50 | Graphs – 2/11 |
