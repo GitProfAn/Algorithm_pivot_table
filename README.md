@@ -32,3 +32,5 @@
 | 24 | Generate Document | Easy – 24/25 | Strings – 4/14 | O(n + m) | O(c) |
 | 25 | First Non-Repeating Character | Easy – 25/25 | Strings – 5/14 | O(n) | O(1) |
 | 26 | River Sizes | Medium – 1/50 | Graphs – 2/11 |
+| 27 | Three Number Sum | Medium – 2/50 | Arrays – 6/24 | O(n^2) | O(1) |
+| 28 | Smallest Difference | Medium – 3/50 | Arrays – 7/24 |  O(n*log(n) + m*log(m)) | O(1) |
