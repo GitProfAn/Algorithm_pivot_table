@@ -36,3 +36,4 @@
 | 28 | Smallest Difference | Medium – 3/50 | Arrays – 7/24 | O(n*log(n) + m*log(m)) | O(1) |
 | 29 | Move Element To End | Medium – 4/50 | Arrays – 8/24 | O(n) | O(1) |
 | 30 | Monotonic Array | Medium – 5/50 | Arrays – 9/24 | O(n) | O(1) |
+| 31 | Spiral Traverse | Medium – 6/50 | Arrays – 10/24 | O(n) | O(n) |
