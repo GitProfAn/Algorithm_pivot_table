@@ -37,3 +37,4 @@
 | 29 | Move Element To End | Medium – 4/50 | Arrays – 8/24 | O(n) | O(1) |
 | 30 | Monotonic Array | Medium – 5/50 | Arrays – 9/24 | O(n) | O(1) |
 | 31 | Spiral Traverse | Medium – 6/50 | Arrays – 10/24 | O(n) | O(n) |
+| 32 | Longest Peak | Medium – 7/50 | Arrays – 11/24 | O(n) | O(1) |
