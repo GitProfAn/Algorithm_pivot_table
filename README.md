@@ -40,3 +40,5 @@
 | 31 | Spiral Traverse | Medium – 6/50 | Arrays – 10/24 | O(n) | O(n) |
 | 32 | Longest Peak | Medium – 7/50 | Arrays – 11/24 | O(n) | O(1) |
 | 33 | Array Of Products | Medium – 8/50 | Arrays – 12/24 | O(n)  | O(n) |
+| 34 | First Duplicate Value | Medium – 9/50 | Arrays – 13/24 | O(n) | O(1) |
+| 35 | Merge Overlapping Intervals | Medium – 10/50 | Arrays – 14/24 | O(n*log(n)) | O(n) |
