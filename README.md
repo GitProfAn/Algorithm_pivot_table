@@ -1,6 +1,7 @@
 # third party reference:  
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python/blob/252df0a149502143a14e7283424d40b785dd451c/DIRECTORY.md)
 - [19_udacity_dsa](https://github.com/Axel-Bravo/19_udacity_dsa.git)
+- [algoexpert](https://www.algoexpert.io/questions)
 
 # Algorithms' pivot table  
 
@@ -38,3 +39,4 @@
 | 30 | Monotonic Array | Medium – 5/50 | Arrays – 9/24 | O(n) | O(1) |
 | 31 | Spiral Traverse | Medium – 6/50 | Arrays – 10/24 | O(n) | O(n) |
 | 32 | Longest Peak | Medium – 7/50 | Arrays – 11/24 | O(n) | O(1) |
+| 33 | Array Of Products | Medium – 8/50 | Arrays – 12/24 | O(n)  | O(n) |
