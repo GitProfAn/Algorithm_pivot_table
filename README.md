@@ -43,3 +43,4 @@
 | 34 | First Duplicate Value | Medium – 9/50 | Arrays – 13/24 | O(n) | O(1) |
 | 35 | Merge Overlapping Intervals | Medium – 10/50 | Arrays – 14/24 | O(n*log(n)) | O(n) |
 | 36 | BST Construction | Medium – 11/50 | BST – 2/10 | O(log(n)) | O(1) |
+| 37 | Validate BST | Medium – 12/50 | BST – 2/10 | O(n) | O(d) |
