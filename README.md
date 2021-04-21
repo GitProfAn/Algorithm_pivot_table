@@ -13,7 +13,7 @@
 | 4 | Tournament Winner | Easy – 4/25 | Arrays – 4/24 | O(n)  | O(n) |
 | 5 | ~~Non-Constructible Change~~ | Easy – 5/25 | Arrays – 5/24 |
 | 6 | Find Closest Value In BST | Easy – 6/25 | BST – 5/24 | O(log(n)) | O(1) |
-| 7 | ~~Branch Sums~~ | Easy – 7/25 | Binary Trees – 1/10 |
+| 7 | Branch Sums | Easy – 7/25 | Binary Trees – 1/10 | O(n) | O(n) |
 | 8 | ~~Node Depths~~ | Easy – 8/25 | Binary Trees – 2/10 |
 | 9 | ~~Depth-first Search~~ | Easy – 9/25 | Graphs – 1/11 |
 | 10 | Minimum Waiting Time | Easy – 10/25 | Greedy Algorithms – 1/5 | O(n*log(n)) | O(1) |
@@ -32,7 +32,7 @@
 | 23 | Run-Length Encoding | Easy – 23/25 | Strings – 3/14 | O(n) | O(n) |
 | 24 | Generate Document | Easy – 24/25 | Strings – 4/14 | O(n + m) | O(c) |
 | 25 | First Non-Repeating Character | Easy – 25/25 | Strings – 5/14 | O(n) | O(1) |
-| 26 | River Sizes | Medium – 1/50 | Graphs – 2/11 |
+| 26 | River Sizes | Medium – 1/50 | Graphs – 2/11 | O(wh) | O(wh) |
 | 27 | Three Number Sum | Medium – 2/50 | Arrays – 6/24 | O(n^2) | O(1) |
 | 28 | Smallest Difference | Medium – 3/50 | Arrays – 7/24 | O(n*log(n) + m*log(m)) | O(1) |
 | 29 | Move Element To End | Medium – 4/50 | Arrays – 8/24 | O(n) | O(1) |
