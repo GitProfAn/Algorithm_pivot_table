@@ -44,3 +44,4 @@
 | 35 | Merge Overlapping Intervals | Medium – 10/50 | Arrays – 14/24 | O(n*log(n)) | O(n) |
 | 36 | BST Construction | Medium – 11/50 | BST – 2/10 | O(log(n)) | O(1) |
 | 37 | Validate BST | Medium – 12/50 | BST – 3/10 | O(n) | O(d) |
+| 38 | BST Traversal | Medium – 13/50 | BST – 4/10 | O(n) | O(n) |
