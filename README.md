@@ -14,7 +14,7 @@
 | 5 | ~~Non-Constructible Change~~ | Easy – 5/25 | Arrays – 5/24 |
 | 6 | Find Closest Value In BST | Easy – 6/25 | BST – 5/24 | O(log(n)) | O(1) |
 | 7 | Branch Sums | Easy – 7/25 | Binary Trees – 1/10 | O(n) | O(n) |
-| 8 | ~~Node Depths~~ | Easy – 8/25 | Binary Trees – 2/10 |
+| 8 | Node Depths | Easy – 8/25 | Binary Trees – 2/10 | O(n) | O(h) |
 | 9 | ~~Depth-first Search~~ | Easy – 9/25 | Graphs – 1/11 |
 | 10 | Minimum Waiting Time | Easy – 10/25 | Greedy Algorithms – 1/5 | O(n*log(n)) | O(1) |
 | 11 | Class Photos | Easy – 11/25 | Greedy Algorithms – 2/5 | O(n*log(n)) | O(1) |
