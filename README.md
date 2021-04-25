@@ -12,7 +12,7 @@
 | 3 | Sorted Squared Array | Easy – 3/25 | Arrays – 3/24 | O(n)  | O(n) |
 | 4 | Tournament Winner | Easy – 4/25 | Arrays – 4/24 | O(n)  | O(n) |
 | 5 | ~~Non-Constructible Change~~ | Easy – 5/25 | Arrays – 5/24 |
-| 6 | Find Closest Value In BST | Easy – 6/25 | BST – 5/24 | O(log(n)) | O(1) |
+| 6 | Find Closest Value In BST | Easy – 6/25 | BST – 1/10 | O(log(n)) | O(1) |
 | 7 | Branch Sums | Easy – 7/25 | Binary Trees – 1/10 | O(n) | O(n) |
 | 8 | Node Depths | Easy – 8/25 | Binary Trees – 2/10 | O(n) | O(h) |
 | 9 | ~~Depth-first Search~~ | Easy – 9/25 | Graphs – 1/11 |
@@ -47,3 +47,4 @@
 | 38 | BST Traversal | Medium – 13/50 | BST – 4/10 | O(n) | O(n) |
 | 39 | Min Height BST | Medium – 14/50 | BST – 5/10 | O(n) | O(n) |
 | 40 | Find Kth Largest Value In BST | Medium – 15/50 | BST – 6/10 | O(h+k) | O(h) |
+| 41 | Reconstruct BST | Medium – 16/50 | BST – 7/10 | O(n) | O(h) |
