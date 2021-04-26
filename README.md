@@ -51,3 +51,4 @@
 | 42 | Invert Binary Tree | Medium – 17/50 | Binary Trees – 3/10 | O(n) | O(d) |
 | 43 | Binary Tree Diameter | Medium – 18/50 | Binary Trees – 4/10 | O(n) | O(n) |
 | 44 | Find Successor |  Medium – 19/50 | Binary Trees – 5/10 |
+| 45 | Height Balanced Binary Tree | Medium – 20/50 | Binary Trees – 6/10 |	O(n) | O(h) |
