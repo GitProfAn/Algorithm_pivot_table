@@ -50,5 +50,5 @@
 | 41 | Reconstruct BST | Medium – 16/50 | BST – 7/10 | O(n) | O(h) |
 | 42 | Invert Binary Tree | Medium – 17/50 | Binary Trees – 3/10 | O(n) | O(d) |
 | 43 | Binary Tree Diameter | Medium – 18/50 | Binary Trees – 4/10 | O(n) | O(n) |
-| 44 | Find Successor |  Medium – 19/50 | Binary Trees – 5/10 |
+| 44 | Find Successor |  Medium – 19/50 | Binary Trees – 5/10 | O(h) | O(1) |
 | 45 | Height Balanced Binary Tree | Medium – 20/50 | Binary Trees – 6/10 |	O(n) | O(h) |
