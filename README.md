@@ -52,3 +52,4 @@
 | 43 | Binary Tree Diameter | Medium – 18/50 | Binary Trees – 4/10 | O(n) | O(n) |
 | 44 | Find Successor |  Medium – 19/50 | Binary Trees – 5/10 | O(h) | O(1) |
 | 45 | Height Balanced Binary Tree | Medium – 20/50 | Binary Trees – 6/10 |	O(n) | O(h) |
+| 46 | Max Subset Sum No Adjacent | Medium – 21/50 | Dynamic Programming – 1/19 | O(n) | O(1) |
