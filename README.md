@@ -53,3 +53,4 @@
 | 44 | Find Successor |  Medium – 19/50 | Binary Trees – 5/10 | O(h) | O(1) |
 | 45 | Height Balanced Binary Tree | Medium – 20/50 | Binary Trees – 6/10 |	O(n) | O(h) |
 | 46 | Max Subset Sum No Adjacent | Medium – 21/50 | Dynamic Programming – 1/19 | O(n) | O(1) |
+| 47 | Number Of Ways To Make Change | Medium – 22/50 | Dynamic Programming – 2/19 | O(nd) | O(n) |
