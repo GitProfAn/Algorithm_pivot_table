@@ -54,3 +54,5 @@
 | 45 | Height Balanced Binary Tree | Medium – 20/50 | Binary Trees – 6/10 |	O(n) | O(h) |
 | 46 | Max Subset Sum No Adjacent | Medium – 21/50 | Dynamic Programming – 1/19 | O(n) | O(1) |
 | 47 | Number Of Ways To Make Change | Medium – 22/50 | Dynamic Programming – 2/19 | O(nd) | O(n) |
+| 48 | Min Number Of Coins For Change | Medium – 22/50 | Dynamic Programming – 3/19 | O(nd) | O(n) |
+| 49 | Levenshtein Distance | Medium – 24/50 | Dynamic Programming – 4/19 | O(nm) | O(min(n, m)) |
