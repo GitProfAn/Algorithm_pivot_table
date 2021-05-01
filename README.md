@@ -58,3 +58,4 @@
 | 49 | Levenshtein Distance | Medium – 24/50 | Dynamic Programming – 4/19 | O(nm) | O(min(n, m)) |
 | 50 | Number Of Ways To Traverse Graph | Medium – 25/50 | Dynamic Programming – 5/19 | O(n + m) | O(1) |
 | 51 | Kadane's Algorithm | Medium – 26/50 | Famous Algorithms – 1/5 | O(n) | O(1) |
+| 52 | Single Cycle Check | Medium – 27/50 | Graphs – 2/11 | O(n) | O(1) |
