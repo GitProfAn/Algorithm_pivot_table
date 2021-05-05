@@ -60,3 +60,4 @@
 | 51 | Kadane's Algorithm | Medium – 26/50 | Famous Algorithms – 1/5 | O(n) | O(1) |
 | 52 | Single Cycle Check | Medium – 27/50 | Graphs – 2/11 | O(n) | O(1) |
 | 53 | Breadth-first Search | Medium – 28/50 | Graphs – 3/11 | O(v + e) | O(v) |
+| 54 | Youngest Common Ancestor | Medium – 29/50 | Graphs – 5/11 | O(d) | O(1) |
