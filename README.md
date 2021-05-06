@@ -64,3 +64,4 @@
 | 55 | Remove Islands |  Medium – 30/50 | Graphs – 6/11 | O(wh) | O(wh) |
 | 56 | Cycle In Graph |  Medium – 31/50 | Graphs – 7/11 | O(v + e) | O(v) |
 | 57 | Task Assignment | Medium – 32/50 | Greedy Algorithms – 4/5 | O(n*log(n)) | O(n) |
+| 58 | Valid Starting City | Medium – 33/50 | Greedy Algorithms – 5/5 | O(n) | O(1) |
