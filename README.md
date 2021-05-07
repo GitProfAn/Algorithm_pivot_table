@@ -67,3 +67,4 @@
 | 58 | Valid Starting City | Medium – 33/50 | Greedy Algorithms – 5/5 | O(n) | O(1) |
 | 59 | Min Heap Construction | Medium – 34/50 | Heaps – 1/5 | O(n) | O(1) |
 | 60 | Linked List Construction | Medium – 35/50 | Linked List – 2/12 | O(1) | O(1) |
+| 61 | Remove Nth Node From End | Medium – 36/50 | Linked List – 3/12 | O(n) | O(1) |
