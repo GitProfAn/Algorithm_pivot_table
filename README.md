@@ -73,3 +73,4 @@
 | 64 | Powerset | Medium – 39/50 | Recursion – 4/12 | O(n*2^n)) | O(n*2^n) |
 | 65 | Phone Number Mnemonics | Medium – 40/50 | Recursion – 5/12 |  O(4^n * n)) | O(4^n * n) |
 | 66 | Staircase Traversal | Medium – 41/50 | Recursion – 6/12 | O(n)  | O(n) |
+| 67 | Search In Sorted Matrix | Medium – 42/50 | Searching – 3/7 | O(n + m)  | O(1) |
