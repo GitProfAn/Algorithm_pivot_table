@@ -71,3 +71,4 @@
 | 62 | Sum Of Linked Lists | Medium – 37/50 | Linked List – 4/12 | O(max(n, m)) | O(max(n, m)) |
 | 63 | Permutations | Medium – 38/50 | Recursion – 3/12 | O(n*n!)) | O(n*n!) |
 | 64 | Powerset | Medium – 39/50 | Recursion – 4/12 | O(n*2^n)) | O(n*2^n) |
+| 65 | Phone Number Mnemonics | Medium – 40/50 | Recursion – 5/12 |  O(4^n * n)) | O(4^n * n) |
