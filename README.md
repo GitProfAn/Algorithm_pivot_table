@@ -77,3 +77,4 @@
 | 68 | Three Number Sort | Medium – 43/50 | Sorting – 4/8 | O(n) | O(1) |
 | 69 | Min Max Stack Construction | Medium – 44/50 | Stacks – 1/6 | O(1) | O(1) |
 | 70 | Balanced Brackets | Medium – 45/50 | Stacks – 2/6 | O(n) | O(n) |
+| 71 | Sunset Views | Medium – 46/50 | Stacks – 3/6 | O(n) | O(n) |
