@@ -32,17 +32,17 @@ Categories:
 | :- | :------------------ | :--------------- | :----- | :----- | :----- |
 | 001 | Validate Subsequence | Easy – 1/25 | Arrays – 1/24 | O(n) | O(1) |
 | 002 | Two Number Sum | Easy – 2/25 | Arrays – 2/24 | O(n) | O(n) |
-| 003 | Sorted Squared Array | Easy – 3/25 | Arrays – 3/24 | O(n)  | O(n) |
-| 004 | Tournament Winner | Easy – 4/25 | Arrays – 4/24 | O(n)  | O(n) |
+| 003 | Sorted Squared Array | Easy – 3/25 | Arrays – 3/24 | O(n) | O(n) |
+| 004 | Tournament Winner | Easy – 4/25 | Arrays – 4/24 | O(n) | O(n) |
 | 005 | Non-Constructible Change | Easy – 5/25 | Arrays – 5/24 | O(n*log(n)) | O(1) |
 | 006 | Find Closest Value In BST | Easy – 6/25 | BST – 1/10 | O(log(n)) | O(1) |
 | 007 | Branch Sums | Easy – 7/25 | Binary Trees – 1/10 | O(n) | O(n) |
 | 008 | Node Depths | Easy – 8/25 | Binary Trees – 2/10 | O(n) | O(h) |
-| 009 | ~~Depth-first Search~~ | Easy – 9/25 | Graphs – 1/11 |
+| 009 | Depth-first Search | Easy – 9/25 | Graphs – 1/11 | O(v + e) | O(v) |
 | 010 | Minimum Waiting Time | Easy – 10/25 | Greedy Algorithms – 1/5 | O(n*log(n)) | O(1) |
 | 011 | Class Photos | Easy – 11/25 | Greedy Algorithms – 2/5 | O(n*log(n)) | O(1) |
 | 012 | Tandem Bicycle | Easy – 12/25 | Greedy Algorithms – 3/5 | O(n*log(n)) | O(1) |
-| 013 | ~~Remove Duplicates From Linked List~~ | Easy – 13/25 | Linked List – 1/12 |
+| 013 | Remove Duplicates From Linked List | Easy – 13/25 | Linked List – 1/12 | O(n) | O(1) |
 | 014 | Nth Fibonacci | Easy – 14/25 | Recursion – 1/12 | O(n) | O(1) |
 | 015 | Product Sum | Easy – 15/25 | Recursion – 2/12 | O(n) | O(depth) |
 | 016 | Binary Search | Easy – 16/25 | Searching – 1/7 | O(log(n)) | O(1) |
