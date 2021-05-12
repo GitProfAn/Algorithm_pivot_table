@@ -78,3 +78,5 @@
 | 69 | Min Max Stack Construction | Medium – 44/50 | Stacks – 1/6 | O(1) | O(1) |
 | 70 | Balanced Brackets | Medium – 45/50 | Stacks – 2/6 | O(n) | O(n) |
 | 71 | Sunset Views | Medium – 46/50 | Stacks – 3/6 | O(n) | O(n) |
+| 72 | ~~Sort Stack~~ | Medium – 47/50 | Stacks –  |
+| 73 | Longest Palindromic Substring | Medium – 48/50 | Strings – 6/14 | O(n^2) | O(1) |
