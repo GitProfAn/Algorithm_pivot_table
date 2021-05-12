@@ -3,13 +3,30 @@
 - [19_udacity_dsa](https://github.com/Axel-Bravo/19_udacity_dsa.git)
 - [algoexpert](https://www.algoexpert.io/questions)
 
-# Algorithms' pivot table
+# Algorithms' pivot table (all examples are provided in Python)
 
 Difficulty levels:
 * easy
 * medium
 * hard
 * very hard
+
+Categories:
+* arrays
+* binary search trees
+* binary trees
+* dynamic programming
+* famous algorithms
+* graphs
+* greedy algorithms
+* heaps
+* linked lists
+* recursion
+* searching
+* sorting
+* stacks
+* strings
+* tries
 
 | № <img width=25/> | Algorithm <img width=100/> | Difficulty <img width=35/> | Category <img width=65/> | Time comp. <img width=15/> | Space comp. |
 | :- | :------------------ | :--------------- | :----- | :----- | :----- |
