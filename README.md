@@ -69,9 +69,10 @@
 | 60 | Linked List Construction | Medium – 35/50 | Linked List – 2/12 | O(1) | O(1) |
 | 61 | Remove Nth Node From End | Medium – 36/50 | Linked List – 3/12 | O(n) | O(1) |
 | 62 | Sum Of Linked Lists | Medium – 37/50 | Linked List – 4/12 | O(max(n, m)) | O(max(n, m)) |
-| 63 | Permutations | Medium – 38/50 | Recursion – 3/12 | O(n*n!)) | O(n*n!) |
-| 64 | Powerset | Medium – 39/50 | Recursion – 4/12 | O(n*2^n)) | O(n*2^n) |
+| 63 | Permutations | Medium – 38/50 | Recursion – 3/12 | O(n*n!) | O(n*n!) |
+| 64 | Powerset | Medium – 39/50 | Recursion – 4/12 | O(n*2^n) | O(n*2^n) |
 | 65 | Phone Number Mnemonics | Medium – 40/50 | Recursion – 5/12 |  O(4^n * n)) | O(4^n * n) |
 | 66 | Staircase Traversal | Medium – 41/50 | Recursion – 6/12 | O(n)  | O(n) |
-| 67 | Search In Sorted Matrix | Medium – 42/50 | Searching – 3/7 | O(n + m)  | O(1) |
-| 68 | Three Number Sort | Medium – 43/50 | Sorting – 4/8 | O(n)  | O(1) |
+| 67 | Search In Sorted Matrix | Medium – 42/50 | Searching – 3/7 | O(n + m) | O(1) |
+| 68 | Three Number Sort | Medium – 43/50 | Sorting – 4/8 | O(n) | O(1) |
+| 69 | Min Max Stack Construction | Medium – 44/50 | Stacks – 1/6 | O(1) | O(1) |
