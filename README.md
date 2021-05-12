@@ -81,3 +81,4 @@
 | 72 | ~~Sort Stack~~ | Medium – 47/50 | Stacks –  |
 | 73 | Longest Palindromic Substring | Medium – 48/50 | Strings – 6/14 | O(n^2) | O(1) |
 | 74 | Group Anagrams | Medium – 49/50 | Strings – 7/14 | O(w * n * log(n)) | O(wn) |
+| 75 | Valid IP Addresses | Medium – 50/50 | Strings – 8/14 | O(1) | O(1) |
