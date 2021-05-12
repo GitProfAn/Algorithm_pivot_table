@@ -3,7 +3,13 @@
 - [19_udacity_dsa](https://github.com/Axel-Bravo/19_udacity_dsa.git)
 - [algoexpert](https://www.algoexpert.io/questions)
 
-# Algorithms' pivot table  
+# Algorithms' pivot table
+
+Difficulty levels:
+* easy
+* medium
+* hard
+* very hard
 
 | № <img width=25/> | Algorithm <img width=100/> | Difficulty <img width=35/> | Category <img width=65/> | Time comp. <img width=15/> | Space comp. |
 | :- | :------------------ | :--------------- | :----- | :----- | :----- |
@@ -11,7 +17,7 @@
 | 002 | Two Number Sum | Easy – 2/25 | Arrays – 2/24 | O(n) | O(n) |
 | 003 | Sorted Squared Array | Easy – 3/25 | Arrays – 3/24 | O(n)  | O(n) |
 | 004 | Tournament Winner | Easy – 4/25 | Arrays – 4/24 | O(n)  | O(n) |
-| 005 | ~~Non-Constructible Change~~ | Easy – 5/25 | Arrays – 5/24 |
+| 005 | Non-Constructible Change | Easy – 5/25 | Arrays – 5/24 | O(n*log(n)) | O(1) |
 | 006 | Find Closest Value In BST | Easy – 6/25 | BST – 1/10 | O(log(n)) | O(1) |
 | 007 | Branch Sums | Easy – 7/25 | Binary Trees – 1/10 | O(n) | O(n) |
 | 008 | Node Depths | Easy – 8/25 | Binary Trees – 2/10 | O(n) | O(h) |
