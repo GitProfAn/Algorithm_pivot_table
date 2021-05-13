@@ -107,3 +107,4 @@ Categories:
 | 075 | Valid IP Addresses | Medium – 50/52 | Strings – 8/14 | O(1) | O(1) |
 | 076 | Reverse Words In String | Medium – 51/52 | Strings – 9/14 | O(n) | O(n) |
 | 077 | Suffix Trie Construction | Medium – 52/52 | Tries – 1/2 | O(n^2) | O(n^2) |
+| 078 | Shift Linked List | Hard – 1/46 | Linked List – 8/13 | O(n) | O(1) |
