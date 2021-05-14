@@ -114,3 +114,4 @@ Categories:
 | 081 | Largest Range | Hard – 4/46 | Arrays – 17/24 | O(n) | O(n) |
 | 082 | Min Rewards | Hard – 5/46 | Arrays – 18/24 | O(n) | O(n) |
 | 083 | Zigzag Traverse | Hard – 6/46 | Arrays – 19/24 | O(n) | O(n) |
+| 084 | Same BSTs | Hard – 6/46 | BST – 8/10 | O(n^2) | O(d) |
