@@ -109,3 +109,4 @@ Categories:
 | 076 | Reverse Words In String | Medium – 51/52 | Strings – 9/14 | O(n) | O(n) |
 | 077 | Suffix Trie Construction | Medium – 52/52 | Tries – 1/2 | O(n^2) | O(n^2) |
 | 078 | Shift Linked List | Hard – 1/46 | Linked List – 8/13 | O(n) | O(1) |
+| 079 | Four Number Sum | Hard – 2/46 | Arrays – 15/24 | O(n^2) | O(n^2) |
