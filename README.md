@@ -112,3 +112,4 @@ Categories:
 | 079 | Four Number Sum | Hard – 2/46 | Arrays – 15/24 | O(n^2) | O(n^2) |
 | 080 | Subarray Sort | Hard – 3/46 | Arrays – 16/24 | O(n) | O(1) |
 | 081 | Largest Range | Hard – 4/46 | Arrays – 17/24 | O(n) | O(n) |
+| 082 | Min Rewards | Hard – 5/46 | Arrays – 18/24 | O(n) | O(n) |
