@@ -116,3 +116,4 @@ Categories:
 | 083 | Zigzag Traverse | Hard – 6/46 | Arrays – 19/24 | O(n) | O(n) |
 | 084 | Same BSTs | Hard – 7/46 | BST – 8/10 | O(n^2) | O(d) |
 | 085 | Validate Three Nodes | Hard – 8/46 | BST – 9/10 | O(h) | O(1) |
+| 086 | Max Path Sum | Hard – 9/46 | Binary Trees – 7/12 | O(n) | O(log(n)) |
