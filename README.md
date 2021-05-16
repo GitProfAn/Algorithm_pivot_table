@@ -122,3 +122,4 @@ Categories:
 | 089 | Longest Common Subsequence | Hard – 12/46 | Dynamic Programming – 7/19 | O(nm) | O(nm) |
 | 090 | Min Number Of Jumps | Hard – 13/46 | Dynamic Programming – 8/19 | O(n) | O(1) |
 | 091 | Water Area | Hard – 14/46 | Dynamic Programming – 9/19 | O(n) | O(n) |
+| 092 | Knapsack Problem | Hard – 15/46 | Dynamic Programming – 10/19 | O(nc) | O(nc) |
