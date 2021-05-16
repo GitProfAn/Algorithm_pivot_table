@@ -119,3 +119,4 @@ Categories:
 | 086 | Max Path Sum | Hard – 9/46 | Binary Trees – 7/12 | O(n) | O(log(n)) |
 | 087 | Find Nodes Distance K | Hard – 10/46 | Binary Trees – 8/12 | O(n) | O(n) |
 | 088 | Max Sum Increasing Subsequence | Hard – 11/46 | Dynamic Programming – 6/19 | O(n^2) | O(n) |
+| 089 | Longest Common Subsequence | Hard – 12/46 | Dynamic Programming – 7/19 | O(nm) | O(nm) |
