@@ -3,6 +3,7 @@
 - [19_udacity_dsa](https://github.com/Axel-Bravo/19_udacity_dsa.git)
 - [algoexpert](https://www.algoexpert.io/questions)
 - [henrylin2008](https://github.com/henrylin2008/Coding_Problems)
+- [02. Algorithms and Data Structures](https://github.com/sengineer-io/Software-Engineering-Roadmap/tree/master/%E2%9D%A4%EF%B8%8F%20Core%20Modules/02.%20Algorithms%20and%20Data%20Structures)
 
 # Algorithms' pivot table (all examples are provided in Python)
 
@@ -126,3 +127,5 @@ Categories:
 | 093 | Disk Stacking | Hard – 16/46 | Dynamic Programming – 11/19 | O(n^2) | O(n) |
 | 094 | Numbers In Pi | Hard – 17/46 | Dynamic Programming – 12/19 | O(n^3 + m) | O(n + m) |
 | 095 | Maximum Sum Submatrix | Hard – 18/46 | Dynamic Programming – 13/19 | O(w * h) | O(w * h) |
+| 096 | ~~Maximize Expression~~ | Hard – 19/46 | Dynamic Programming – 14/19 |
+| 097 | Dijkstra's Algorithm | Hard – 20/46 | Famous Algorithms – 2/5 | O((v + e) * log(v)) | O(v) |
