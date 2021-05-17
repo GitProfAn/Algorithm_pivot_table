@@ -129,3 +129,4 @@ Categories:
 | 095 | Maximum Sum Submatrix | Hard – 18/46 | Dynamic Programming – 13/19 | O(w * h) | O(w * h) |
 | 096 | ~~Maximize Expression~~ | Hard – 19/46 | Dynamic Programming – 14/19 |
 | 097 | Dijkstra's Algorithm | Hard – 20/46 | Famous Algorithms – 2/5 | O((v + e) * log(v)) | O(v) |
+| 098 | Topological Sort | Hard – 21/46 | Famous Algorithms – 3/5 | O(j + d) | O(j + d) |
