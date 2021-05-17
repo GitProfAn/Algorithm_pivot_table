@@ -124,3 +124,4 @@ Categories:
 | 091 | Water Area | Hard – 14/46 | Dynamic Programming – 9/19 | O(n) | O(n) |
 | 092 | Knapsack Problem | Hard – 15/46 | Dynamic Programming – 10/19 | O(nc) | O(nc) |
 | 093 | Disk Stacking | Hard – 16/46 | Dynamic Programming – 11/19 | O(n^2) | O(n) |
+| 094 | Numbers In Pi | Hard – 17/46 | Dynamic Programming – 12/19 | O(n^3 + m) | O(n + m) |
