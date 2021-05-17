@@ -123,3 +123,4 @@ Categories:
 | 090 | Min Number Of Jumps | Hard – 13/46 | Dynamic Programming – 8/19 | O(n) | O(1) |
 | 091 | Water Area | Hard – 14/46 | Dynamic Programming – 9/19 | O(n) | O(n) |
 | 092 | Knapsack Problem | Hard – 15/46 | Dynamic Programming – 10/19 | O(nc) | O(nc) |
+| 093 | Disk Stacking | Hard – 16/46 | Dynamic Programming – 11/19 | O(n^2) | O(n) |
