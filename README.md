@@ -130,3 +130,4 @@ Categories:
 | 096 | ~~Maximize Expression~~ | Hard – 19/46 | Dynamic Programming – 14/19 |
 | 097 | Dijkstra's Algorithm | Hard – 20/46 | Famous Algorithms – 2/5 | O((v + e) * log(v)) | O(v) |
 | 098 | Topological Sort | Hard – 21/46 | Famous Algorithms – 3/5 | O(j + d) | O(j + d) |
+| 099 | Boggle Board | Hard – 22/46 | Graphs – 8/11 | O(nm*8^s + ws) | O(nm + ws) |
