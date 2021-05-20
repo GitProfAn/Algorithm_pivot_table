@@ -132,4 +132,5 @@ Categories:
 | 098 | Topological Sort | Hard – 21/46 | Famous Algorithms – 3/5 | O(j + d) | O(j + d) |
 | 099 | Boggle Board | Hard – 22/46 | Graphs – 8/11 | O(nm*8^s + ws) | O(nm + ws) |
 | 100 | Continuous Median | Hard – 23/46 | Heaps – 2/5 | O(log(n)) | O(n) |
-| 101 | Sort K-Sorted Array | Hard – 23/46 | Heaps – 3/5 | O(nlog(k)) | O(k) |
+| 101 | Sort K-Sorted Array | Hard – 24/46 | Heaps – 3/5 | O(nlog(k)) | O(k) |
+| 102 | Laptop Rentals |  Hard – 25/46 | Heaps – 4/5 | O(nlog(n)) | O(n) |
