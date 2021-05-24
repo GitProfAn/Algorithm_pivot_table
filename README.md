@@ -135,3 +135,4 @@ Categories:
 | 101 | Sort K-Sorted Array | Hard – 24/46 | Heaps – 3/5 | O(nlog(k)) | O(k) |
 | 102 | Laptop Rentals | Hard – 25/46 | Heaps – 4/5 | O(nlog(n)) | O(n) |
 | 103 | Find Loop | Hard – 26/46 | Linked List – 5/12 | O(n) | O(1) |
+| 104 | Reverse Linked List | Hard – 27/46 | Linked List – 6/12 | O(n) | O(1) |
