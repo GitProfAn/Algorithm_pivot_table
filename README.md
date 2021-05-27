@@ -142,3 +142,4 @@ Categories:
 | 108 | Solve Sudoku | Hard – 31/46 | Recursion – 9/12 | O(1) | O(1) |
 | 109 | Generate Div Tags | Hard – 32/46 | Recursion – 10/12 | O((2n)!/((n!((n + 1)!)))) | O((2n)!/((n!((n + 1)!)))) |
 | 110 | Ambiguous Measurements | Hard – 33/46 | Recursion – 11/12 | O(low \* high \* n) | O(low \* high) |
+| 111 | Shifted Binary Search | Hard – 34/46 | Searching – 4/7 | O(log(n)) | O(1) |
