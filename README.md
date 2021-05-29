@@ -144,3 +144,4 @@ Categories:
 | 110 | Ambiguous Measurements | Hard – 33/46 | Recursion – 11/12 | O(low \* high \* n) | O(low \* high) |
 | 111 | Shifted Binary Search | Hard – 34/46 | Searching – 4/7 | O(log(n)) | O(1) |
 | 112 | Quickselect | Hard – 35/46 | Searching – 5/7 | O(n) | O(1) |
+| 113 | Index Equals Value | Hard – 36/46 | Searching – 6/7 | O(log(n)) | O(1) |
