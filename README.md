@@ -145,3 +145,4 @@ Categories:
 | 111 | Shifted Binary Search | Hard – 34/46 | Searching – 4/7 | O(log(n)) | O(1) |
 | 112 | Quickselect | Hard – 35/46 | Searching – 5/7 | O(n) | O(1) |
 | 113 | Index Equals Value | Hard – 36/46 | Searching – 6/7 | O(log(n)) | O(1) |
+| 114 | Quick Sort | Hard – 37/46 | Sorting – 5/9 | O(n*log(n)) | O(log(n)) |
