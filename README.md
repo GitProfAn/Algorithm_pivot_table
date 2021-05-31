@@ -147,3 +147,5 @@ Categories:
 | 113 | Index Equals Value | Hard – 36/46 | Searching – 6/7 | O(log(n)) | O(1) |
 | 114 | Quick Sort | Hard – 37/46 | Sorting – 5/9 | O(n*log(n)) | O(log(n)) |
 | 115 | Heap Sort | Hard – 38/46 | Sorting – 6/9 | O(n*log(n)) | O(1) |
+| 116 | ~~Radix Sort~~ | Hard – 39/46 | Sorting – 7/9 |
+| 117 | Shorten Path | Hard – 40/46 | Stacks – 6/7 | O(n) | O(n) |
