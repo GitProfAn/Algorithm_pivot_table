@@ -149,3 +149,4 @@ Categories:
 | 115 | Heap Sort | Hard – 38/46 | Sorting – 6/9 | O(n*log(n)) | O(1) |
 | 116 | ~~Radix Sort~~ | Hard – 39/46 | Sorting – 7/9 |
 | 117 | Shorten Path | Hard – 40/46 | Stacks – 6/7 | O(n) | O(n) |
+| 118 | Largest Rectangle Under Skyline | Hard – 41/46 | Stacks – 7/7 | O(n) | O(n) |
