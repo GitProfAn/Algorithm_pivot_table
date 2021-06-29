@@ -150,3 +150,4 @@ Categories:
 | 116 | ~~Radix Sort~~ | Hard – 39/46 | Sorting – 7/9 |
 | 117 | Shorten Path | Hard – 40/46 | Stacks – 6/7 | O(n) | O(n) |
 | 118 | Largest Rectangle Under Skyline | Hard – 41/46 | Stacks – 7/7 | O(n) | O(n) |
+| 119 | Longest Substring Without Duplication | Hard – | Strings – |
