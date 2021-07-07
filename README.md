@@ -71,7 +71,7 @@ Categories:
 | 037 | Validate BST | Medium – 12/52 | BST – 3/10 | O(n) | O(d) |
 | 038 | BST Traversal | Medium – 13/52 | BST – 4/10 | O(n) | O(n) |
 | 039 | Min Height BST | Medium – 14/52 | BST – 5/10 | O(n) | O(n) |
-| 040 | Find Kth Largest Value In BST | Medium – 15/52 | BST – 6/10 | O(h+k) | O(h) |
+| 040 | Find Kth Largest Value In BST | Medium – 15/52 | BST – 6/10 | O(h + k) | O(h) |
 | 041 | Reconstruct BST | Medium – 16/52 | BST – 7/10 | O(n) | O(h) |
 | 042 | Invert Binary Tree | Medium – 17/52 | Binary Trees – 3/10 | O(n) | O(d) |
 | 043 | Binary Tree Diameter | Medium – 18/52 | Binary Trees – 4/10 | O(n) | O(n) |
@@ -152,3 +152,4 @@ Categories:
 | 118 | Largest Rectangle Under Skyline | Hard – 41/46 | Stacks – 7/7 | O(n) | O(n) |
 | 119 | Longest Substring Without Duplication | Hard – | Strings – | O(n) | O(min(n, a)) |
 | 120 | Underscorify Substring | Hard – | Strings – | O(n * m) | O(n) |
+| 121 | Pattern Matcher |  Hard – | Strings – | O(n^2 + m) | O(n + m) |
