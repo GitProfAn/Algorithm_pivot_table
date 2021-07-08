@@ -153,3 +153,4 @@ Categories:
 | 119 | Longest Substring Without Duplication | Hard – | Strings – | O(n) | O(min(n, a)) |
 | 120 | Underscorify Substring | Hard – | Strings – | O(n * m) | O(n) |
 | 121 | Pattern Matcher |  Hard – | Strings – | O(n^2 + m) | O(n + m) |
+| 122 | Multi String Search | Hard – | Tries – | O(ns + bs) | O(ns) |
